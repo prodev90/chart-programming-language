@@ -1,0 +1,23 @@
+*{
+margin: 0;
+box-sizing: border-box;
+}
+body{
+font-family: sans-serif;
+}
+.test{
+display: flex;
+}
+h1{
+  text-align: center;
+  color: #E3872D ;
+  padding: 55px;
+  position: relative;
+  text-transform: uppercase;
+}
+.test{
+position: center;
+bottom: 100px;
+width: 788px;
+height: 500px;
+}
